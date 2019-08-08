@@ -1,1 +1,1 @@
-# WpfSample.MultiSelectComboBox
+# An example about how to enable multi select in ComboBox in WPF
